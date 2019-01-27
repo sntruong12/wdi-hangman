@@ -1,0 +1,14 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+
+#guess {
+  letter-spacing: 0.5rem;
+}
+
+section {
+  background-image: url("../images/hangman.png");
+  /* background-position: -75px 0; */
+  width: 75px;
+  height: 200px;
+}
